@@ -58,6 +58,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+# dependencies
+npm i --force @nest-middlewares/helmet @nest-middlewares/morgan @nestjs/config @nestjs/jwt @nestjs/passport @nestjs/swag
+ger @nestjs/typeorm bcrypt class-transformer class-validator mysql2 nestjs-rate-limiter passport-jwt typeorm
+
+# devDependencies
+npm i --force -D @types/passport-jwt
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
